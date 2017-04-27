@@ -17,6 +17,7 @@
 
 - [Crash Course](https://www.youtube.com/user/crashcourse) (YouTube) - "Tons of awesome courses in one awesome channel! Nicole Sweeney teaches you sociology, Carrie Anne Philbin teaches you computer science, Craig Benzine teaches film history, and Mike Rugnetta is teaching mythology!"
 - [CGP Grey](https://www.youtube.com/user/CGPGrey) (YouTube)
+- [FloatingUniversity](https://www.youtube.com/user/FloatingUniversity) (YouTube) - "What if every student at every university, everywhere, had access to the world's greatest thinkers and leading scholars?"
 - [Khan Academy](https://www.youtube.com/user/khanacademy) (YouTube) - "Our mission to provide a world-class education for anyone, anywhere."
 - [TED](https://www.youtube.com/user/TEDtalksDirector) (YouTube) - "TED Talks shares the best ideas from the TED Conference with the world, for free: trusted voices and convention-breaking mavericks, icons and geniuses, all giving the talk of their lives in 18 minutes."
 
@@ -32,7 +33,6 @@
 ### Astronomy and space
 
 - [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos) (YouTube) - "Exploring deep space - one video at a time."
-- [FloatingUniversity](https://www.youtube.com/user/FloatingUniversity) (YouTube) - "What if every student at every university, everywhere, had access to the world's greatest thinkers and leading scholars?"
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) (YouTube) - "Space Time explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet Earth with our astrophysicist host: Matthew O’Dowd."
 - [SciShow Space](https://www.youtube.com/user/scishowspace) (YouTube) - "Every Tuesday and Friday, SciShow Space explores the universe a few minutes at a time."
 
