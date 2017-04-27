@@ -25,7 +25,7 @@
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) (YouTube) - Videos explaining things with optimistic nihilism. 
 - [MinuteEarth](https://www.youtube.com/user/minuteearth) (YouTube) - "Science and stories about our awesome planet!"
 - [NOVA PBS](https://www.youtube.com/user/NOVAonline) (YouTube) - "NOVA is the most-watched primetime science series on television reaching an average of five million viewers weekly."
-- [Sixty Symbols](https://www.youtube.com/user/sixtysymbols) - "Cool videos about physics and astronomy."
+- [Sixty Symbols](https://www.youtube.com/user/sixtysymbols) (YouTube) - "Cool videos about physics and astronomy."
 - [Veritasium](https://www.youtube.com/user/1veritasium/) (YouTube) - "An element of truth - videos about science, education, and anything else I find interesting."
 - [Vsauce](https://www.youtube.com/user/Vsauce) (YouTube)
 
@@ -33,7 +33,7 @@
 
 - [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos) (YouTube) - "Exploring deep space - one video at a time."
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) (YouTube) - "Space Time explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet Earth with our astrophysicist host: Matthew O’Dowd."
-- [SciShow Space](https://www.youtube.com/user/scishowspace) - "Every Tuesday and Friday, SciShow Space explores the universe a few minutes at a time."
+- [SciShow Space](https://www.youtube.com/user/scishowspace) (YouTube) - "Every Tuesday and Friday, SciShow Space explores the universe a few minutes at a time."
 
 ### Chemistry
 
@@ -46,7 +46,7 @@
 ### IT
 
 - [Austin Evans](https://www.youtube.com/user/duncan33303) (YouTube) - "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here."
-- [Computerphile](https://www.youtube.com/user/Computerphile) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
+- [Computerphile](https://www.youtube.com/user/Computerphile) (YouTube) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) (YouTube) - "We make entertaining videos about technology, including tech reviews, showcases and other content."
 - [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) (YouTube) - "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!"
 - [NCIX Tech Tips](https://www.youtube.com/user/NCIXcom) (YouTube)
