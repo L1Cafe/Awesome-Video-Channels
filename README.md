@@ -57,6 +57,7 @@
 #### Gaming
 
 - [ExtraCredits](https://www.youtube.com/user/ExtraCreditz) (YouTube) - "Whether you're looking for a game industry career or simply curious about the way game developers think, Extra Credits makes video game design approachable by exploring concepts like gamification, perfect imbalance, the skinner box, the uncanny valley, and more."
+- [The Game Theorists](https://www.youtube.com/user/MatthewPatrick13) (YouTube) - "Do you love overanalyzing video games? We cover it all from diving into the lore of FNAF, researching the tech of Halo, or picking apart the dark secrets of the Mario universe."
 
 ### Math
 
