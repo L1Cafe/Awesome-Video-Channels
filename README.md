@@ -6,6 +6,7 @@
 * [General](#general)
 * [Science](#science)
   * [Astronomy and space](#astronomy-and-space)
+  * [Chemistry](#chemistry)
   * [Electronics](#electronics)
   * [IT](#it)
   * [Math](#math)
