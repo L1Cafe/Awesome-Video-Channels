@@ -1,5 +1,5 @@
 # Awesome Video Channels
-:desktop_computer:  A curated list of online video channels from YouTube, Vimeo, and other platforms for learning just about anything!
+:desktop_computer:  A curated list of online video channels from YouTube, Vimeo, and other video platforms for learning just about anything!
 
 ## Table of contents
 
