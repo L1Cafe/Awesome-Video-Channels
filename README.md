@@ -23,7 +23,7 @@
 
 ## Science
 
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) (YouTube) - Videos explaining things with optimistic nihilism. 
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) (YouTube) - "Videos explaining things with optimistic nihilism."
 - [MinuteEarth](https://www.youtube.com/user/minuteearth) (YouTube) - "Science and stories about our awesome planet!"
 - [NOVA PBS](https://www.youtube.com/user/NOVAonline) (YouTube) - "NOVA is the most-watched primetime science series on television reaching an average of five million viewers weekly."
 - [Sixty Symbols](https://www.youtube.com/user/sixtysymbols) (YouTube) - "Cool videos about physics and astronomy."
