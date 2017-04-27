@@ -32,6 +32,7 @@
 ### Astronomy and space
 
 - [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos) (YouTube) - "Exploring deep space - one video at a time."
+- [FloatingUniversity](https://www.youtube.com/user/FloatingUniversity) (YouTube) - "What if every student at every university, everywhere, had access to the world's greatest thinkers and leading scholars?"
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) (YouTube) - "Space Time explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet Earth with our astrophysicist host: Matthew O’Dowd."
 - [SciShow Space](https://www.youtube.com/user/scishowspace) (YouTube) - "Every Tuesday and Friday, SciShow Space explores the universe a few minutes at a time."
 
