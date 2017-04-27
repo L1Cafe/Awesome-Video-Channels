@@ -9,6 +9,7 @@
   * [Chemistry](#chemistry)
   * [Electronics](#electronics)
   * [IT](#it)
+    * [Gaming](#gaming)
   * [Math](#math)
   * [Physics](#physics)
 * [Social Science](#social-science)
@@ -52,6 +53,10 @@
 - [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) (YouTube) - "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!"
 - [NCIX Tech Tips](https://www.youtube.com/user/NCIXcom) (YouTube)
 - [Techquickie](https://www.youtube.com/user/Techquickie) (YouTube) - "Learn about the latest cool technology in only a couple minutes!"
+
+#### Gaming
+
+- [ExtraCredits](https://www.youtube.com/user/ExtraCreditz) (YouTube) - "Whether you're looking for a game industry career or simply curious about the way game developers think, Extra Credits makes video game design approachable by exploring concepts like gamification, perfect imbalance, the skinner box, the uncanny valley, and more."
 
 ### Math
 
