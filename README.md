@@ -64,3 +64,9 @@
 ## Social Science
 
 - [PragerU](https://www.youtube.com/user/PragerUniversity) (YouTube) - "PragerU is an online video resource promoting knowledge and clarity on life's biggest and most interesting topics. We gather some of the world's best thinkers and distill their best ideas into free, 5-minute videos on things ranging from history and economics to science and happiness. Enjoy."
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [L-Cafe](https://github.com/L-Cafe) has waived all copyright and related or neighboring rights to this work.
