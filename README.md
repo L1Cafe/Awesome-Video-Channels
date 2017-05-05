@@ -22,6 +22,14 @@
 - [Khan Academy](https://www.youtube.com/user/khanacademy) (YouTube) - "Our mission to provide a world-class education for anyone, anywhere."
 - [TED](https://www.youtube.com/user/TEDtalksDirector) (YouTube) - "TED Talks shares the best ideas from the TED Conference with the world, for free: trusted voices and convention-breaking mavericks, icons and geniuses, all giving the talk of their lives in 18 minutes."
 
+## Art and creativity
+
+- [PortraitPainter](https://www.youtube.com/user/lanevski1) (YouTube) - "Trick Art Channel by Stefan Pabst. 3D Drawing and Painting in timelapse. (how to draw tutorials) pencil, oil speed paintings."
+
+### Digital art
+
+- [BakaArts](https://www.youtube.com/channel/UCjKIPQOlTASJrIWQ9H-i5mA) (YouTube) - "Your #1 source for Photoshop tutorials."
+
 ## Science
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt) (YouTube) - "Videos explaining things with optimistic nihilism."
