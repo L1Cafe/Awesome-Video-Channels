@@ -1,6 +1,8 @@
 # Awesome Video Channels [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 :desktop_computer:  A curated list of online video channels for learning just about anything!
 
+Want to contribute? Read [this](contributing.md).
+
 ## Table of contents
 
 * [General](#general)
