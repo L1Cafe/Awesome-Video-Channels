@@ -11,6 +11,7 @@ Want to contribute? Read [this](contributing.md).
   * [Chemistry](#chemistry)
   * [Electronics](#electronics)
   * [IT](#it)
+    * [Computer Science](#computer-science)
     * [Gaming](#gaming)
   * [Math](#math)
   * [Physics](#physics)
@@ -58,14 +59,18 @@ Want to contribute? Read [this](contributing.md).
 ### IT
 
 - [Austin Evans](https://www.youtube.com/user/duncan33303) (YouTube) - "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here."
-- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) (YouTube) - "Making the web more awesome."
-- [Computerphile](https://www.youtube.com/user/Computerphile) (YouTube) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
-- [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) (YouTube) - "Learn Marketing & code."
-- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) (YouTube) - "Become a better web developer."
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) (YouTube) - "We make entertaining videos about technology, including tech reviews, showcases and other content."
 - [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) (YouTube) - "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!"
 - [NCIX Tech Tips](https://www.youtube.com/user/NCIXcom) (YouTube)
+
+#### Computer Science
+
+- [Computerphile](https://www.youtube.com/user/Computerphile) (YouTube) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
+- [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) (YouTube) - "Learn Marketing & code."
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) (YouTube) - "Making the web more awesome."
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) (YouTube) - "Become a better web developer."
 - [Techquickie](https://www.youtube.com/user/Techquickie) (YouTube) - "Learn about the latest cool technology in only a couple minutes!"
+- [Tom Scott](https://www.youtube.com/user/enyay/about) - "Hi, I'm Tom Scott. These are some of the things I've made and done. They'll probably come back to haunt me in a few years' time."
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) (YouTube) - "Web development & programming tutorials."
 
 #### Gaming
