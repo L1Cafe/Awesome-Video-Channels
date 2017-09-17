@@ -63,7 +63,7 @@ Want to contribute? Read [this](contributing.md).
 - [Marques Brownlee](https://www.youtube.com/user/marquesbrownlee) (YouTube) - "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!"
 - [NCIX Tech Tips](https://www.youtube.com/user/NCIXcom) (YouTube)
 
-#### Computer Science
+#### Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile) (YouTube) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) (YouTube) - "Learn Marketing & code."
