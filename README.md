@@ -16,6 +16,9 @@ Want to contribute? Read [this](contributing.md).
   * [Math](#math)
   * [Physics](#physics)
 * [Social Science](#social-science)
+* [Languages](#languages)
+  * [Chinese](#chinese)
+  * [English](#english)
 
 ## General
 
@@ -89,6 +92,18 @@ Want to contribute? Read [this](contributing.md).
 ## Social Science
 
 - [PragerU](https://www.youtube.com/user/PragerUniversity) (YouTube) - "PragerU is an online video resource promoting knowledge and clarity on life's biggest and most interesting topics. We gather some of the world's best thinkers and distill their best ideas into free, 5-minute videos on things ranging from history and economics to science and happiness. Enjoy."
+
+## Languages
+
+- [Fluenz](https://www.youtube.com/user/fluenz) (YouTube) - "We work very hard to fulfill our ambition: design, build, and sell the world's best language learning programs."
+
+### Chinese
+
+- [Happy Chinese](http://english.cntv.cn/program/learnchinese/happychinese2/index.shtml) (China Central Television - CCTV)
+
+### English
+
+- [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/) (BBC)
 
 # License
 
