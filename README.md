@@ -84,6 +84,7 @@ Want to contribute? Read [this](contributing.md).
 ### Math
 
 - [Numberphile](https://www.youtube.com/user/numberphile) (YouTube) - "Videos about numbers - it's that simple."
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (YouTube) - "3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective."
 
 ### Physics
 
