@@ -71,6 +71,7 @@ Want to contribute? Read [this](contributing.md).
 - [Computerphile](https://www.youtube.com/user/Computerphile) (YouTube) - "Videos all about computers and computer stuff. Sister channel of Numberphile."
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) (YouTube) - "Learn Marketing & code."
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) (YouTube) - "Making the web more awesome."
+- [Hak5 shows](https://www.hak5.org/shows) - They focus especially on security and privacy, but also have sections dedicated to Linux commands and other.
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) (YouTube) - "Become a better web developer."
 - [Techquickie](https://www.youtube.com/user/Techquickie) (YouTube) - "Learn about the latest cool technology in only a couple minutes!"
 - [Tom Scott](https://www.youtube.com/user/enyay/about) (YouTube) - "Hi, I'm Tom Scott. These are some of the things I've made and done. They'll probably come back to haunt me in a few years' time."
